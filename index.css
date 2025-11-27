@@ -1,0 +1,39 @@
+body{
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    min-width: 300px;
+}
+input{
+    padding: 10px 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+button{
+    margin: 0px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+ul {
+    margin-top: 20px;
+    padding-left: 0px;
+    list-style: none;
+}
+li {
+    margin-top: 10px;
+}
+li a {
+    color: green;
+
+}
