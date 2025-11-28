@@ -22,9 +22,7 @@ if(leadFromLocalStorage)
 )
 function renderLeads(){
     let listItems=""
-        console.log("button clicked")
         for(let i=0; i< myLeads.length; i++){
-        // listItems += "<li><a target='_blank' href=' " + myLeads + "'>" + myLeads[i] + "</a></li> "
         listItems += `
         <li>
             <a target='_blank' href='${myLeads[i]}'>  ${myLeads[i]} </a>
