@@ -1,0 +1,36 @@
+body {
+    padding-top: 300px;
+    background-color: rgb(7, 69, 7);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-width: 10px;
+}
+h1 {
+    color: goldenrod;
+    
+}
+#message-el {
+    color: white;
+    font-style: italic;
+}
+button {
+    background-color: goldenrod;
+    color: #016f32;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 200px;
+}
+#newcard-btn {
+    margin-top: 5px;
+}
+#player-el {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: thin;
+    margin-top: 20px;
+    
+}

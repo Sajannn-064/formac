@@ -43,3 +43,4 @@ document.getElementById("create-btn").addEventListener("click", () => {
     addTodo(title)
     inputEl.value = ""
 })
+
